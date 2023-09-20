@@ -19,3 +19,4 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
+[![Validate Gradle Wrapper](https://github.com/gilbertalgordo/guava/actions/workflows/gradle-wrapper-validation.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/gradle-wrapper-validation.yml)
