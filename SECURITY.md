@@ -24,3 +24,4 @@ declined, etc.
 [![Microsoft Defender For Devops](https://github.com/gilbertalgordo/guava/actions/workflows/defender-for-devops.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/defender-for-devops.yml)
 [![OSSAR](https://github.com/gilbertalgordo/guava/actions/workflows/ossar.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/ossar.yml)
 [![PSScriptAnalyzer](https://github.com/gilbertalgordo/guava/actions/workflows/powershell.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/powershell.yml)
+[![Scorecard supply-chain security](https://github.com/gilbertalgordo/guava/actions/workflows/scorecard.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/scorecard.yml)
