@@ -25,3 +25,4 @@ declined, etc.
 [![OSSAR](https://github.com/gilbertalgordo/guava/actions/workflows/ossar.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/ossar.yml)
 [![PSScriptAnalyzer](https://github.com/gilbertalgordo/guava/actions/workflows/powershell.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/powershell.yml)
 [![Scorecard supply-chain security](https://github.com/gilbertalgordo/guava/actions/workflows/scorecard.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/scorecard.yml)
+[![CI](https://github.com/gilbertalgordo/guava/actions/workflows/ci.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/ci.yml)
