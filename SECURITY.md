@@ -26,3 +26,5 @@ declined, etc.
 [![PSScriptAnalyzer](https://github.com/gilbertalgordo/guava/actions/workflows/powershell.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/powershell.yml)
 [![Scorecard supply-chain security](https://github.com/gilbertalgordo/guava/actions/workflows/scorecard.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/scorecard.yml)
 [![CI](https://github.com/gilbertalgordo/guava/actions/workflows/ci.yml/badge.svg)](https://github.com/gilbertalgordo/guava/actions/workflows/ci.yml)
+# Pay Transparency
+https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:3904d473-0113-3d87-82e8-1c8faf4c8a8d
